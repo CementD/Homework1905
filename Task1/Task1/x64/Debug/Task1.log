@@ -1,0 +1,3 @@
+﻿  Queue.cpp
+C:\Users\User\Desktop\OOP C++\homework1905\Task1\Task1\Queue.cpp(43): warning C4715: 'Queue::front': not all control paths return a value
+  Task1.vcxproj -> C:\Users\User\Desktop\OOP C++\homework1905\Task1\x64\Debug\Task1.exe
